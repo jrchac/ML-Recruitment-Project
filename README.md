@@ -16,8 +16,7 @@ The source of the dataset is: https://www.kaggle.com/datasets/ictinstitute/utrec
    - This file contains exploratory analysis to understand the structure and characteristics of the dataset.
 
 2. **Machine Learning Experiments:**
-
-- This file includes experiments with various machine learning algorithms to develop predictive models for recruitment decision-making. Additionally, it includes a section on fairness check appended after the experiments.
+   - This file includes experiments with various machine learning algorithms to develop predictive models for recruitment decision-making. Additionally, it includes a section on fairness check appended after the experiments.
 
 3. **Model 1**:
    - This file presents the development and optimization of the Support Vector Machine based on the recruitment dataset.
