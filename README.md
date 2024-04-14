@@ -17,7 +17,7 @@ The source of the dataset is: https://www.kaggle.com/datasets/ictinstitute/utrec
 
 2. **Machine Learning Experiments:**
 
-This file includes experiments with various machine learning algorithms to develop predictive models for recruitment decision-making. Additionally, it includes a section on fairness check appended after the experiments.
+- This file includes experiments with various machine learning algorithms to develop predictive models for recruitment decision-making. Additionally, it includes a section on fairness check appended after the experiments.
 
 3. **Model 1**:
    - This file presents the development and optimization of the Support Vector Machine based on the recruitment dataset.
@@ -28,7 +28,7 @@ This file includes experiments with various machine learning algorithms to devel
 ## Usage
 - The EDA provides insights into the dataset's structure and characteristics, aiding in feature selection and understanding.
 - Machine learning experiments help in developing predictive models for recruitment decisions.
-- Fairness checks ensure that the models do not exhibit bias towards certain demographic groups.
+- Fairness checks ensure that the models are not biased towards certain demographic groups.
 - Models 1 and 2 represent the best-performing models, optimized for recruitment decision-making.
 
 ## Conclusion
